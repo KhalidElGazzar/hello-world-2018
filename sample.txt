@@ -2,3 +2,6 @@ This is the first line.
 This the second line.
 This is the third line.
 Here is a fourth line.
+
+Added fifth line (on master)
+Added sixth line (on master too).
